@@ -1,10 +1,10 @@
+require("dotenv").config();
 const express = require("express");
 const router = express.Router();
 const nodemailer = require("nodemailer");
-const user = "info@illumbk.com";
+const user = "info@usedcars-usa.com";
 const host = "mail.privateemail.com";
-const auth = { user, pass: "!QAZxcvbnm,./" };
-const to = "funwiche.dev@gmail.com";
+const auth = { user, pass: process.env.PASS };
 router.post("", async (req, res) => {
   try {
     let { name, email, phone, message, subject } = req.body;
@@ -17,7 +17,7 @@ router.post("", async (req, res) => {
     <div style="font-size:14px;margin-bottom:8px;"><strong>Message: </strong>${message}</div>`;
     await nodemailer
       .createTransport({ host, port: 465, secure: true, auth })
-      .sendMail({ from, to, replyTo: email, subject, html });
+      .sendMail({ from, to: user, replyTo: email, subject, html });
     res.sendStatus(200);
   } catch (error) {
     console.log(error);
