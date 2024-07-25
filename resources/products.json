@@ -1,37 +1,5 @@
 [
   {
-    "id": "2019-mercedes-benz-c-class",
-    "title": "2019 Mercedes-Benz C-Class",
-    "price": "$16,000",
-    "gallery": [
-      "https://texas-usedcars.com/wp-content/uploads/2024/01/2019-mercedes-benz-c-class-c-300-4matic-awd-2dr-coupe-8.jpg",
-      "https://texas-usedcars.com/wp-content/uploads/2024/01/2019-mercedes-benz-c-class-c-300-4matic-awd-2dr-coupe-9.jpg",
-      "https://texas-usedcars.com/wp-content/uploads/2024/01/2019-mercedes-benz-c-class-c-300-4matic-awd-2dr-coupe-19.jpg",
-      "https://texas-usedcars.com/wp-content/uploads/2024/01/2019-mercedes-benz-c-class-c-300-4matic-awd-2dr-coupe-18.jpg",
-      "https://texas-usedcars.com/wp-content/uploads/2024/01/2019-mercedes-benz-c-class-c-300-4matic-awd-2dr-coupe-16.jpg",
-      "https://texas-usedcars.com/wp-content/uploads/2024/01/2019-mercedes-benz-c-class-c-300-4matic-awd-2dr-coupe-17.jpg",
-      "https://texas-usedcars.com/wp-content/uploads/2024/01/2019-mercedes-benz-c-class-c-300-4matic-awd-2dr-coupe-13.jpg"
-    ],
-    "info": {
-      "condition": "Used",
-      "engine": "2.0L I4",
-      "exterior color": "Black",
-      "trim": "C 300 4MATIC",
-      "transmission": "Automatic",
-      "interior color": "Black",
-      "mileage": "19,339",
-      "drive train": "AWD",
-      "fuel": "Gasoline",
-      "year": "2019",
-      "make": "Mercedes-Benz",
-      "model": "C-Class"
-    },
-    "standard_features": "<ul><li>Air Conditioning</li><li>Climate Control</li><li>Dual Zone Climate Control</li><li>Cruise Control</li><li>Power Steering</li><li>Power Windows</li><li>Power Door Locks</li><li>Power Mirrors</li><li>Leather Steering Wheel</li><li>Leather Shifter</li><li>Power Drivers Seat</li><li>Memory Seat Position</li><li>Heated Seat</li><li>Tachometer</li><li>Homelink System</li><li>Telescoping Steering Wheel</li><li>Steering Wheel Radio Controls</li><li>Sunroof</li><li>Moonroof</li><li>Driver Airbag</li><li>Passenger Airbag</li><li>Side Airbags</li><li>Keyless Entry</li><li>Security System</li><li>ABS Brakes</li><li>Rear Defogger</li><li>Intermittent Wipers</li><li>AM/FM</li><li>Anti-Theft</li><li>Full Leather Interior Surface</li><li>115V Power Outlet</li><li>12v Power Outlet</li><li>Air Conditioned Seats</li><li>Android Auto</li><li>Apple CarPlay</li><li>Carpeted Floor Mats</li><li>Center Arm Rest</li><li>Daytime Running Lights</li><li>Electronic Trunk Closer</li><li>FAST- KEY entry system</li><li>Front AC Seats</li><li>Front Heated Seats</li><li>Heated Mirrors</li><li>Overhead Console</li><li>Rear Fog Lamps</li><li>Rear Spoiler</li><li>Rear Spoiler</li><li>Reverse Camera</li><li>Roll Stability Control</li><li>Side Curtain Airbags</li><li>Tire Pressure Monitor</li><li>Vanity Mirrors</li></ul>",
-    "details": "<table><tbody><tr><th>Vehicle</th><td>AWD C 300 4MATIC 2dr Coupe</td></tr><tr><th>Price</th><td><span><span>$</span>19,500</span></td></tr><tr><th>Kilometers</th><td>19,339 km</td></tr><tr><th>Color</th><td>Black</td></tr><tr><th>Transmission</th><td>Automatic 9-Speed</td></tr><tr><th>Body</th><td>Coupe</td></tr><tr><th>Engine</th><td>2.0L I4</td></tr></tbody></table>",
-    "specifications": "<table><tbody><tr><th>Year</th><td>2019</td></tr><tr><th>Make</th><td>Mercedes-Benz</td></tr><tr><th>Model</th><td>C-Class</td></tr><tr><th>Vehicle</th><td>AWD C 300 4MATIC 2dr Coupe</td></tr><tr><th>Transmission Type</th><td>Automatic 9-Speed</td></tr><tr><th>Fuel Type</th><td>Gasoline</td></tr><tr><th>Engine Type</th><td>2.0L I4</td></tr><tr><th>Country</th><td>United States</td></tr></tbody></table>",
-    "premium_features": "<ul><li>Moonroof</li><li>Sunroof</li><li>Heated Seats</li><li>Good MPG</li><li>Climate Control</li></ul>"
-  },
-  {
     "id": "2013-chevrolet-cruze-2lt-2",
     "title": "2013 Chevrolet Cruze 2LT",
     "price": "$4,000",
@@ -68,10 +36,10 @@
     "title": "2013 Chevrolet Cruze 2LT",
     "price": "$3,500",
     "gallery": [
+      "https://texas-usedcars.com/wp-content/uploads/2024/06/zs-dh7Mc8LCRXr7P4XmGWa74DwI.webp",
       "https://texas-usedcars.com/wp-content/uploads/2024/06/eBDSPLUrmQM6NBUDCtaxYVRDqs8.webp",
       "https://texas-usedcars.com/wp-content/uploads/2024/06/Zxdrz9eyF52I74cHq19GBUAOnw8.webp",
       "https://texas-usedcars.com/wp-content/uploads/2024/06/1gWUsR7gimbI02w4DqIbrklKgz0.webp",
-      "https://texas-usedcars.com/wp-content/uploads/2024/06/zs-dh7Mc8LCRXr7P4XmGWa74DwI.webp",
       "https://texas-usedcars.com/wp-content/uploads/2024/06/BFBx57MBujK1GnsJA3A64t3ALAw.webp",
       "https://texas-usedcars.com/wp-content/uploads/2024/06/kG9EurHQLYsxp_1fnx8C5vWPCUI.webp",
       "https://texas-usedcars.com/wp-content/uploads/2024/06/aGADlivVpgpwSBmue3jPheNI76o.webp"
@@ -94,6 +62,39 @@
     "details": "<div class=\"vehicle-deeplink\"><a class=\"sds-link--ext\" href=\"https://www.cars.com/external/vehiclehistory/?redirect=https%3A%2F%2Fwww.carfax.com%2FVehicleHistory%2Far20%2FyukF4rJfkljBQABOMj3xaL6VkceltPxye0z3LwOEkLDplvjx9W-BcKGAkdKWnhhszYoIadDgtLXpaLXvtGHeZe3mJJDftIyyIPI\" target=\"_blank\" rel=\"noopener nofollow\" aria-describedby=\"new-tab-link\" aria-label=\"Free CARFAX Report, External link\" data-override-payload=\"{&quot;page_url&quot;:&quot;https://www.carfax.com/VehicleHistory/ar20/yukF4rJfkljBQABOMj3xaL6VkceltPxye0z3LwOEkLDplvjx9W-BcKGAkdKWnhhszYoIadDgtLXpaLXvtGHeZe3mJJDftIyyIPI&quot;,&quot;web_page_type_to&quot;:&quot;carfax-free&quot;}\" data-linkname=\"carfax-free\" data-nav-click-intent-id=\"vdp-vehicle-history-report\" data-listing-id=\"fe5b1631-1e04-4e24-9910-5f0bc500d36e\" data-activity-rule-type=\"custom\" data-component=\"vehicle-history\" data-event-list=\"event96\">Free CARFAX Report</a></div><dl class=\"fancy-description-list\"><dt>Accidents or damage None reported</dt><dt></dt><dt>1-owner vehicle No</dt><dt></dt><dt>Personal use only No</dt></dl>",
     "specifications": "<p>Convenience</p><ul class=\"vehicle-features-list\"><li>Heated Seats</li><li>Navigation System</li><li>Remote Start</li></ul><p>Entertainment</p><ul class=\"vehicle-features-list\"><li>Bluetooth®</li></ul><p>Exterior</p><ul class=\"vehicle-features-list\"><li>Alloy Wheels</li></ul><p>Safety</p><ul class=\"vehicle-features-list\"><li>Brake Assist</li><li>Stability Control</li></ul><p>Seating</p><ul class=\"vehicle-features-list\"><li>Leather Seats</li></ul>",
     "premium_features": "<p class=\"text\">These features are associated with this vehicle type. Contact the seller to confirm this specific vehicle has them.</p><ul class=\"sds-list sds-list--unordered all-features-list\"><li><div class=\"all-features-item\">1st and 2nd row curtain head airbags</div></li><li><div class=\"all-features-item\">4 Door</div></li><li><div class=\"all-features-item\">4-Wheel Disc Brakes</div></li><li><div class=\"all-features-item\">4-wheel ABS Brakes</div></li><li><div class=\"all-features-item\">A/C</div></li><li><div class=\"all-features-item\">ABS</div></li><li><div class=\"all-features-item\">ABS and Driveline Traction Control</div></li><li><div class=\"all-features-item\">AM/FM Stereo</div></li><li><div class=\"all-features-item\">Adjustable Steering Wheel</div></li><li><div class=\"all-features-item\">Aluminum Wheels</div></li><li><div class=\"all-features-item\">Anti-theft alarm system</div></li><li><div class=\"all-features-item\">Audio controls on steering wheel</div></li><li><div class=\"all-features-item\">Audio system memory card slot</div></li><li><div class=\"all-features-item\">Audio system security</div></li><li><div class=\"all-features-item\">Automatic Headlights</div></li><li><div class=\"all-features-item\">Auxiliary Audio Input</div></li><li><div class=\"all-features-item\">Black grille w/chrome surround</div></li><li><div class=\"all-features-item\">Bluetooth Connection</div></li><li><div class=\"all-features-item\">Body-colored bumpers</div></li><li><div class=\"all-features-item\">Braking Assist</div></li><li><div class=\"all-features-item\">Bucket Seats</div></li><li><div class=\"all-features-item\">Bucket front seats</div></li><li><div class=\"all-features-item\">CD Player</div></li><li><div class=\"all-features-item\">Cargo area light</div></li><li><div class=\"all-features-item\">Center Console: Full with covered storage</div></li><li><div class=\"all-features-item\">Child Safety Locks</div></li><li><div class=\"all-features-item\">Clock: In-radio display</div></li><li><div class=\"all-features-item\">Coil front spring</div></li><li><div class=\"all-features-item\">Coil rear spring</div></li><li><div class=\"all-features-item\">Compass</div></li><li><div class=\"all-features-item\">Cruise control</div></li><li><div class=\"all-features-item\">Cruise controls on steering wheel</div></li><li><div class=\"all-features-item\">Cupholders: Front and rear</div></li><li><div class=\"all-features-item\">Curb weight: 3,143 lbs.</div></li><li><div class=\"all-features-item\">Dash trim: Cloth/metal-look</div></li><li><div class=\"all-features-item\">Daytime running lights</div></li><li><div class=\"all-features-item\">Diameter of tires: 17.0″</div></li><li><div class=\"all-features-item\">Digital Audio Input</div></li><li><div class=\"all-features-item\">Door pockets: Driver, passenger and rear</div></li><li><div class=\"all-features-item\">Door reinforcement: Side-impact door beam</div></li><li><div class=\"all-features-item\">Driver Air Bag</div></li><li><div class=\"all-features-item\">Driver Vanity Mirror</div></li><li><div class=\"all-features-item\">Driver airbag</div></li><li><div class=\"all-features-item\">Driver and passenger heated-cushion, driver and passenger heated-seatback</div></li><li><div class=\"all-features-item\">Driver and passenger knee airbags</div></li><li><div class=\"all-features-item\">Dual vanity mirrors</div></li><li><div class=\"all-features-item\">Dusk sensing headlights</div></li><li><div class=\"all-features-item\">Emergency Trunk Release</div></li><li><div class=\"all-features-item\">Engine immobilizer</div></li><li><div class=\"all-features-item\">External temperature display</div></li><li><div class=\"all-features-item\">Floor Mats</div></li><li><div class=\"all-features-item\">Floor mats: Carpet front and rear</div></li><li><div class=\"all-features-item\">Fold forward seatback rear seats</div></li><li><div class=\"all-features-item\">Front Head Air Bag</div></li><li><div class=\"all-features-item\">Front Head Room: 39.3″</div></li><li><div class=\"all-features-item\">Front Hip Room: 53.0″</div></li><li><div class=\"all-features-item\">Front Independent Suspension</div></li><li><div class=\"all-features-item\">Front Leg Room: 42.3″</div></li><li><div class=\"all-features-item\">Front Reading Lamps</div></li><li><div class=\"all-features-item\">Front Shoulder Room: 54.8″</div></li><li><div class=\"all-features-item\">Front Side Air Bag</div></li><li><div class=\"all-features-item\">Front Ventilated disc brakes</div></li><li><div class=\"all-features-item\">Front Wheel Drive</div></li><li><div class=\"all-features-item\">Front reading lights</div></li><li><div class=\"all-features-item\">Front suspension stabilizer bar</div></li><li><div class=\"all-features-item\">Fuel Capacity: 15.6 gal.</div></li><li><div class=\"all-features-item\">Fuel Consumption: City: 26 mpg</div></li><li><div class=\"all-features-item\">Fuel Consumption: Highway: 38 mpg</div></li><li><div class=\"all-features-item\">Fuel Type: Regular unleaded</div></li><li><div class=\"all-features-item\">Gross vehicle weight: 4,321 lbs.</div></li><li><div class=\"all-features-item\">Headlights off auto delay</div></li><li><div class=\"all-features-item\">Heated Front Seat(S)</div></li><li><div class=\"all-features-item\">Immobilizer</div></li><li><div class=\"all-features-item\">In-Dash single CD player</div></li><li><div class=\"all-features-item\">Independent front suspension classification</div></li><li><div class=\"all-features-item\">Instrumentation: Low fuel level</div></li><li><div class=\"all-features-item\">Integrated roof antenna</div></li><li><div class=\"all-features-item\">Intercooled Turbo</div></li><li><div class=\"all-features-item\">Interior air filtration</div></li><li><div class=\"all-features-item\">Intermittent Wipers</div></li><li><div class=\"all-features-item\">Keyless Entry</div></li><li><div class=\"all-features-item\">Knee Air Bag</div></li><li><div class=\"all-features-item\">Leather Seats</div></li><li><div class=\"all-features-item\">Leather Steering Wheel</div></li><li><div class=\"all-features-item\">Leather seat upholstery</div></li><li><div class=\"all-features-item\">Leather/metal-look shift knob trim</div></li><li><div class=\"all-features-item\">Leather/metal-look steering wheel trim</div></li><li><div class=\"all-features-item\">Left rear passenger door type: Conventional</div></li><li><div class=\"all-features-item\">MP3 player</div></li><li><div class=\"all-features-item\">Machined aluminum rims</div></li><li><div class=\"all-features-item\">Manual front air conditioning</div></li><li><div class=\"all-features-item\">Manufacturer’s 0-60mph acceleration time (seconds): 10.0 s</div></li><li><div class=\"all-features-item\">Max cargo capacity: 15 cu.ft.</div></li><li><div class=\"all-features-item\">Metal-look center console trim</div></li><li><div class=\"all-features-item\">Navigation From Telematics</div></li><li><div class=\"all-features-item\">OnStar Directions &amp; Connections</div></li><li><div class=\"all-features-item\">Overall Length: 181.0″</div></li><li><div class=\"all-features-item\">Overall Width: 70.7″</div></li><li><div class=\"all-features-item\">Overall height: 58.1″</div></li><li><div class=\"all-features-item\">Pass-Through Rear Seat</div></li><li><div class=\"all-features-item\">Passenger Air Bag</div></li><li><div class=\"all-features-item\">Passenger Air Bag Sensor</div></li><li><div class=\"all-features-item\">Passenger Airbag</div></li><li><div class=\"all-features-item\">Passenger Vanity Mirror</div></li><li><div class=\"all-features-item\">Power Door Locks</div></li><li><div class=\"all-features-item\">Power Driver Seat</div></li><li><div class=\"all-features-item\">Power Mirror(S)</div></li><li><div class=\"all-features-item\">Power Outlet</div></li><li><div class=\"all-features-item\">Power Steering</div></li><li><div class=\"all-features-item\">Power child safety locks</div></li><li><div class=\"all-features-item\">Power remote driver mirror adjustment</div></li><li><div class=\"all-features-item\">Power remote passenger mirror adjustment</div></li><li><div class=\"all-features-item\">Power windows</div></li><li><div class=\"all-features-item\">Privacy glass: Light</div></li><li><div class=\"all-features-item\">Radio Data System</div></li><li><div class=\"all-features-item\">Rear Bench Seat</div></li><li><div class=\"all-features-item\">Rear Defrost</div></li><li><div class=\"all-features-item\">Rear Head Air Bag</div></li><li><div class=\"all-features-item\">Rear Head Room: 37.9″</div></li><li><div class=\"all-features-item\">Rear Hip Room: 52.4″</div></li><li><div class=\"all-features-item\">Rear Leg Room: 35.4″</div></li><li><div class=\"all-features-item\">Rear Shoulder Room: 53.9″</div></li><li><div class=\"all-features-item\">Rear Side Air Bag</div></li><li><div class=\"all-features-item\">Rear bench</div></li><li><div class=\"all-features-item\">Rear center seatbelt: 3-point belt</div></li><li><div class=\"all-features-item\">Rear door type: Trunk</div></li><li><div class=\"all-features-item\">Rear seats center armrest</div></li><li><div class=\"all-features-item\">Regular front stabilizer bar</div></li><li><div class=\"all-features-item\">Remote Engine Start</div></li><li><div class=\"all-features-item\">Remote activated exterior entry lights</div></li><li><div class=\"all-features-item\">Remote power door locks</div></li><li><div class=\"all-features-item\">Requires Subscription</div></li><li><div class=\"all-features-item\">Right rear passenger door type: Conventional</div></li><li><div class=\"all-features-item\">Satellite Radio</div></li><li><div class=\"all-features-item\">Seatback storage: 2</div></li><li><div class=\"all-features-item\">Seatbelt pretensioners: Front</div></li><li><div class=\"all-features-item\">Security System</div></li><li><div class=\"all-features-item\">Selective service internet access</div></li><li><div class=\"all-features-item\">Semi-independent rear suspension</div></li><li><div class=\"all-features-item\">Side airbag</div></li><li><div class=\"all-features-item\">SiriusXM AM/FM/Satellite Radio</div></li><li><div class=\"all-features-item\">SiriusXM Satellite Radio</div></li><li><div class=\"all-features-item\">SiriusXM Satellite Radio(TM)</div></li><li><div class=\"all-features-item\">Smart Device Integration</div></li><li><div class=\"all-features-item\">Spare Tire Mount Location: Inside under cargo</div></li><li><div class=\"all-features-item\">Speed Sensitive Audio Volume Control</div></li><li><div class=\"all-features-item\">Speed-proportional electric power steering</div></li><li><div class=\"all-features-item\">Stability Control</div></li><li><div class=\"all-features-item\">Stability control with anti-roll control</div></li><li><div class=\"all-features-item\">Steel spare wheel rim</div></li><li><div class=\"all-features-item\">Steering Wheel Audio Controls</div></li><li><div class=\"all-features-item\">Strut front suspension</div></li><li><div class=\"all-features-item\">Suspension class: Sport</div></li><li><div class=\"all-features-item\">Tachometer</div></li><li><div class=\"all-features-item\">Telematics</div></li><li><div class=\"all-features-item\">Temporary Spare Tire</div></li><li><div class=\"all-features-item\">Tilt and telescopic steering wheel</div></li><li><div class=\"all-features-item\">Tire Pressure Monitor</div></li><li><div class=\"all-features-item\">Tire Pressure Monitoring System: Tire specific</div></li><li><div class=\"all-features-item\">Tires – Front Performance</div></li><li><div class=\"all-features-item\">Tires – Rear Performance</div></li><li><div class=\"all-features-item\">Tires: Prefix: P</div></li><li><div class=\"all-features-item\">Tires: Profile: 50</div></li><li><div class=\"all-features-item\">Tires: Speed Rating: H</div></li><li><div class=\"all-features-item\">Tires: Width: 225 mm</div></li><li><div class=\"all-features-item\">Torsion beam rear suspension</div></li><li><div class=\"all-features-item\">Total Number of Speakers: 6</div></li><li><div class=\"all-features-item\">Traction Control</div></li><li><div class=\"all-features-item\">Trip computer</div></li><li><div class=\"all-features-item\">Turbocharged</div></li><li><div class=\"all-features-item\">Two 12V DC power outlets</div></li><li><div class=\"all-features-item\">Type of tires: AS</div></li><li><div class=\"all-features-item\">Variable Speed Intermittent Wipers</div></li><li><div class=\"all-features-item\">Variable intermittent front wipers</div></li><li><div class=\"all-features-item\">Vehicle Emissions: ULEV</div></li><li><div class=\"all-features-item\">Video Monitor Location: Front</div></li><li><div class=\"all-features-item\">Wheel Diameter: 17</div></li><li><div class=\"all-features-item\">Wheel Width: 7</div></li><li><div class=\"all-features-item\">Wheelbase: 105.7″</div></li><li><div class=\"all-features-item\">Wireless phone connectivity</div></li></ul>"
+  },
+  {
+    "id": "2019-mercedes-benz-c-class",
+    "title": "2019 Mercedes-Benz C-Class",
+    "price": "$16,000",
+    "gallery": [
+      "https://texas-usedcars.com/wp-content/uploads/2024/01/2019-mercedes-benz-c-class-c-300-4matic-awd-2dr-coupe-18.jpg",
+      "https://texas-usedcars.com/wp-content/uploads/2024/01/2019-mercedes-benz-c-class-c-300-4matic-awd-2dr-coupe-8.jpg",
+      "https://texas-usedcars.com/wp-content/uploads/2024/01/2019-mercedes-benz-c-class-c-300-4matic-awd-2dr-coupe-9.jpg",
+      "https://texas-usedcars.com/wp-content/uploads/2024/01/2019-mercedes-benz-c-class-c-300-4matic-awd-2dr-coupe-19.jpg",
+
+      "https://texas-usedcars.com/wp-content/uploads/2024/01/2019-mercedes-benz-c-class-c-300-4matic-awd-2dr-coupe-16.jpg",
+      "https://texas-usedcars.com/wp-content/uploads/2024/01/2019-mercedes-benz-c-class-c-300-4matic-awd-2dr-coupe-17.jpg",
+      "https://texas-usedcars.com/wp-content/uploads/2024/01/2019-mercedes-benz-c-class-c-300-4matic-awd-2dr-coupe-13.jpg"
+    ],
+    "info": {
+      "condition": "Used",
+      "engine": "2.0L I4",
+      "exterior color": "Black",
+      "trim": "C 300 4MATIC",
+      "transmission": "Automatic",
+      "interior color": "Black",
+      "mileage": "19,339",
+      "drive train": "AWD",
+      "fuel": "Gasoline",
+      "year": "2019",
+      "make": "Mercedes-Benz",
+      "model": "C-Class"
+    },
+    "standard_features": "<ul><li>Air Conditioning</li><li>Climate Control</li><li>Dual Zone Climate Control</li><li>Cruise Control</li><li>Power Steering</li><li>Power Windows</li><li>Power Door Locks</li><li>Power Mirrors</li><li>Leather Steering Wheel</li><li>Leather Shifter</li><li>Power Drivers Seat</li><li>Memory Seat Position</li><li>Heated Seat</li><li>Tachometer</li><li>Homelink System</li><li>Telescoping Steering Wheel</li><li>Steering Wheel Radio Controls</li><li>Sunroof</li><li>Moonroof</li><li>Driver Airbag</li><li>Passenger Airbag</li><li>Side Airbags</li><li>Keyless Entry</li><li>Security System</li><li>ABS Brakes</li><li>Rear Defogger</li><li>Intermittent Wipers</li><li>AM/FM</li><li>Anti-Theft</li><li>Full Leather Interior Surface</li><li>115V Power Outlet</li><li>12v Power Outlet</li><li>Air Conditioned Seats</li><li>Android Auto</li><li>Apple CarPlay</li><li>Carpeted Floor Mats</li><li>Center Arm Rest</li><li>Daytime Running Lights</li><li>Electronic Trunk Closer</li><li>FAST- KEY entry system</li><li>Front AC Seats</li><li>Front Heated Seats</li><li>Heated Mirrors</li><li>Overhead Console</li><li>Rear Fog Lamps</li><li>Rear Spoiler</li><li>Rear Spoiler</li><li>Reverse Camera</li><li>Roll Stability Control</li><li>Side Curtain Airbags</li><li>Tire Pressure Monitor</li><li>Vanity Mirrors</li></ul>",
+    "details": "<table><tbody><tr><th>Vehicle</th><td>AWD C 300 4MATIC 2dr Coupe</td></tr><tr><th>Price</th><td><span><span>$</span>19,500</span></td></tr><tr><th>Kilometers</th><td>19,339 km</td></tr><tr><th>Color</th><td>Black</td></tr><tr><th>Transmission</th><td>Automatic 9-Speed</td></tr><tr><th>Body</th><td>Coupe</td></tr><tr><th>Engine</th><td>2.0L I4</td></tr></tbody></table>",
+    "specifications": "<table><tbody><tr><th>Year</th><td>2019</td></tr><tr><th>Make</th><td>Mercedes-Benz</td></tr><tr><th>Model</th><td>C-Class</td></tr><tr><th>Vehicle</th><td>AWD C 300 4MATIC 2dr Coupe</td></tr><tr><th>Transmission Type</th><td>Automatic 9-Speed</td></tr><tr><th>Fuel Type</th><td>Gasoline</td></tr><tr><th>Engine Type</th><td>2.0L I4</td></tr><tr><th>Country</th><td>United States</td></tr></tbody></table>",
+    "premium_features": "<ul><li>Moonroof</li><li>Sunroof</li><li>Heated Seats</li><li>Good MPG</li><li>Climate Control</li></ul>"
   },
   {
     "id": "2017-infiniti-q50-3-0t-sport-awd",
@@ -2861,7 +2862,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/05/2019_mercedes-benz_c-class-pic-5373993521238352865-296x222-1.jpeg"
     ],
     "info": {
-      "condition": "used, by only one owner",
+      "condition": "Used",
       "engine": "255 hp 2L I4",
       "exterior color": "Blue",
       "trim": "C 300 4MATIC AWD",
@@ -2893,7 +2894,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/05/2018_mercedes-benz_cla-class-pic-3745996168775944309-296x222-1.jpeg"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "208 hp 2L I4",
       "exterior color": "Gray (Mountain Grey Metallic)",
       "trim": "CLA 250 4MATIC",
@@ -2925,7 +2926,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/05/2021_mercedes-benz_c-class-pic-7234089800845724288-296x222-1.jpeg"
     ],
     "info": {
-      "condition": "used, by only one owner",
+      "condition": "Used",
       "engine": "255 hp 2L I4",
       "exterior color": "White",
       "trim": " C 300 4MATIC Sedan AWD",
@@ -2957,7 +2958,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2016_dodge_charger-pic-5066501309863193009-1024x768-1.jpeg"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "292 hp 3.6L V6",
       "exterior color": "Billet Silver Metallic Clearcoat",
       "trim": "SXT RWD",
@@ -2989,7 +2990,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2015_dodge_charger-pic-8962819409980203883-1024x768-1-e1714496340408.jpeg"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "292 hp 3.6L V6",
       "exterior color": "White",
       "trim": "SXT RWD",
@@ -3021,7 +3022,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/EtVmFvfLlD6PdfsSmrF1H3j8loYviUUN.jpg"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "292 hp 3.6L V6",
       "exterior color": "Blue",
       "trim": " SE RWD",
@@ -3053,7 +3054,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2019_dodge_charger-pic-1931168975385367212-1024x768-1.webp"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "292 hp 3.6L V6",
       "exterior color": "Bright Red",
       "trim": "SXT RWD",
@@ -3085,7 +3086,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2015_dodge_charger-pic-7651997163104756549-1024x768-1.jpeg"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "292 hp 3.6L V6",
       "exterior color": "Gray",
       "trim": " SE AWD",
@@ -3117,7 +3118,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2019_dodge_charger-pic-3878880526080878051-296x222-1.jpeg"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "292 hp 3.6L V6",
       "exterior color": "Black",
       "trim": "SXT RWD",
@@ -3149,7 +3150,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2019_dodge_charger-pic-6367189845846661611-1024x768-1-e1714488801416.jpeg"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "292 hp 3.6L V6",
       "exterior color": "Gray",
       "trim": "SXT RWD",
@@ -3181,7 +3182,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2009_dodge_charger-pic-3939827283974496319-1024x768-1.webp"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "368 hp 5.7L V8",
       "exterior color": "Deep Water Blue PC/Light Graystone PC",
       "trim": " R/T RWD",
@@ -3213,7 +3214,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2022_dodge_charger-pic-5986486156304262596-1024x768-1.webp"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "300 hp 3.6L V6",
       "exterior color": "White",
       "trim": "GT RWD",
@@ -3245,7 +3246,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2017_dodge_charger-pic-3549462672298230299-1024x768-1.jpeg"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "292 hp 3.6L V6",
       "exterior color": "Gray",
       "trim": " SXT RWD",
@@ -3277,7 +3278,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2008_dodge_charger-pic-3320914906900016528-1024x768-1.webp"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "340 hp 5.7L V8",
       "exterior color": "Inferno Red Crystal Pearl",
       "trim": " R/T RWD",
@@ -3309,7 +3310,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2020_dodge_charger-pic-4571261636480626321-1024x768-1.webp"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "292 hp 3.6L V6",
       "exterior color": "White Knuckle Clearcoat",
       "trim": "SXT RWD",
@@ -3341,7 +3342,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2022_dodge_charger-pic-7938058951259715729-296x222-1.jpeg"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "300 hp 3.6L V6",
       "exterior color": "Indigo Blue",
       "trim": "GT RWD",
@@ -3373,7 +3374,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2016_dodge_charger-pic-2376142168167019404-296x222-1.jpeg"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "370 hp 5.7L V8",
       "exterior color": "Gray (Granite Crystal Metallic Clearcoat)",
       "trim": "R/T RWD",
@@ -3405,7 +3406,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2018_dodge_charger-pic-80603358426245107-296x222-1.jpeg"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "300 hp 3.6L V6",
       "exterior color": "White Knuckle Clearcoat",
       "trim": "GT AWD",
@@ -3437,7 +3438,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2019_dodge_charger-pic-5455558185180349213-296x222-1.jpeg"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "292 hp 3.6L V6",
       "exterior color": "Black",
       "trim": " SXT RWD",
@@ -3469,7 +3470,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2012_dodge_charger-pic-5481071877137640002-296x222-1.jpeg"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "470 hp 6.4L V8",
       "exterior color": "Silver",
       "trim": "SRT8 RWD",
@@ -3501,7 +3502,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2021_dodge_charger-pic-4993238754470974673-296x222-1.jpeg"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "292 hp 3.6L V6",
       "exterior color": "White Knuckle Clearcoat",
       "trim": "SXT RWD",
@@ -3533,7 +3534,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2014_dodge_charger-pic-7477588105567873616-296x222-1.jpeg"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "292 hp 3.6L V6",
       "exterior color": "Gray",
       "trim": " SE RWD",
@@ -3565,7 +3566,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2012_dodge_charger-pic-503167762666927743-296x222-1.jpeg"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "370 hp 5.7L V8",
       "exterior color": " Bright White",
       "trim": "R/T Max AWD",
@@ -3597,7 +3598,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2020_dodge_charger-pic-6207738343352764606-296x222-1.jpeg"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "292 hp 3.6L V6",
       "exterior color": "Octane Red Pearlcoat",
       "trim": "SXT RWD",
@@ -3629,7 +3630,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2020_dodge_charger-pic-4749570020184518165-296x222-1.jpeg"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "292 hp 3.6L V6",
       "exterior color": "Pitch Black Clearcoat",
       "trim": "SXT RWD",
@@ -3661,7 +3662,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2022_dodge_charger-pic-3156846341497265134-296x222-1.jpeg"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "300 hp 3.6L V6",
       "exterior color": "Go Mango",
       "trim": "GT RWD",
@@ -3693,7 +3694,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2017_dodge_charger-pic-5431153829143783162-296x222-1.jpeg"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "292 hp 3.6L V6",
       "exterior color": "White",
       "trim": "SXT RWD",
@@ -3725,7 +3726,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2022_dodge_charger-pic-5213989127717942690-296x222-2.jpeg"
     ],
     "info": {
-      "condition": "used only by one owner",
+      "condition": "Used",
       "engine": "485 hp 6.4L V8",
       "exterior color": "White",
       "trim": " Scat Pack RWD",
@@ -3757,7 +3758,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/04/2016_dodge_charger-pic-4837418052058388153-296x222-1.jpeg"
     ],
     "info": {
-      "condition": "used, by only one person",
+      "condition": "Used",
       "engine": "292 hp 3.6L V6",
       "exterior color": "Black",
       "trim": "SXT RWD",
@@ -3789,7 +3790,7 @@
       "https://texas-usedcars.com/wp-content/uploads/2024/01/2016_kia_sorento-pic-4130122878772836200-1024x768-1.jpeg"
     ],
     "info": {
-      "condition": "used, by only one person",
+      "condition": "Used",
       "engine": "185 hp 2.4L I4",
       "exterior color": "Dark Cherry",
       "trim": "LX",

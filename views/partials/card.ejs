@@ -5,13 +5,14 @@
         href="/vehicle/<%= item.id %>"
         title="<%= item.title %>"
         class="product-image"
+        style="aspect-ratio: 16/9"
       >
         <img
           src="<%= item.gallery[0] %>"
           alt="<%= item.title %>"
           style="
-            aspect-ratio: 16/9;
             width: 100%;
+            height: 100%;
             object-position: center;
             object-fit: cover;
           "

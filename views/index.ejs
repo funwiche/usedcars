@@ -1120,7 +1120,7 @@
       </div>
     </div>
   </div>
-  <div class="container">
+  <!-- <div class="container">
     <div class="vc_row wpb_row vc_row-fluid">
       <div class="wpb_column vc_column_container vc_col-sm-12">
         <div
@@ -1145,6 +1145,33 @@
             </div>
             <div class="loader-image" style="display: none"></div>
             <div class="ajaxphp-results"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> -->
+  <div class="box-additional">
+    <div class="related-pro container">
+      <div class="slider-items-products">
+        <div class="new_title center">
+          <h2>Best Sellers</h2>
+        </div>
+        <div id="related-slider" class="product-flexslider hidden-buttons">
+          <div
+            class="slider-items slider-width-col4 products-grid owl-carousel owl-theme"
+            style="opacity: 1; display: block"
+          >
+            <div class="owl-wrapper-outer">
+              <div class="owl-wrapper">
+                <% featured.forEach(item =>{ %>
+                <div class="owl-item" style="width: 258px; min-width: 258px">
+                  <div class="item">
+                    <%- include('./partials/card', {item}) %>
+                  </div>
+                </div>
+                <% }) %>
+              </div>
+            </div>
           </div>
         </div>
       </div>
