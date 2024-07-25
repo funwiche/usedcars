@@ -1,0 +1,503 @@
+<div class="main-container col1-layout">
+  <div class="main">
+    <div class="col-main">
+      <div class="product-view" itemid="#product_base">
+        <div
+          class="wpcm-vehicle"
+          itemscope=""
+          itemtype="https://schema.org/Vehicle"
+        >
+          <div class="product-essential container">
+            <div class="row">
+              <div class="wpcm-vehicle-head">
+                <div class="product-img-box col-lg-6 col-sm-6 col-xs-12">
+                  <div class="product-image">
+                    <div class="product-full">
+                      <img
+                        id="product-zoom1"
+                        src="<%=item.gallery[0]%>"
+                        data-zoom-image="<%=item.gallery[0]%>"
+                        style="
+                          aspect-ratio: 4/3;
+                          width: 100%;
+                          object-position: center;
+                          object-fit: contain;
+                        "
+                      />
+                    </div>
+
+                    <div class="more-views">
+                      <div class="slider-items-products">
+                        <div
+                          id="gallery_02"
+                          class="product-flexsliderhidden-buttons product-img-thumb"
+                        >
+                          <div
+                            class="slider-items slider-width-col4 block-content owl-carousel owl-theme"
+                            style="opacity: 1; display: block"
+                          >
+                            <div class="owl-wrapper-outer">
+                              <div class="owl-wrapper">
+                                <div
+                                  style="
+                                    display: flex;
+                                    gap: 4px;
+                                    align-items: center;
+                                  "
+                                >
+                                  <% item.gallery.forEach(img =>{ %>
+                                  <div
+                                    class="owl-item"
+                                    style="width: 84px; min-width: 84px"
+                                  >
+                                    <div class="more-views-items">
+                                      <a
+                                        href="#"
+                                        data-image="<%=img%>"
+                                        data-zoom-image="<%=img%>"
+                                      >
+                                        <img
+                                          id="product-zoom0"
+                                          src="<%=img%>"
+                                          style="
+                                            aspect-ratio: 4/3;
+                                            width: 100%;
+                                            object-position: center;
+                                            object-fit: cover;
+                                          "
+                                        />
+                                      </a>
+                                    </div>
+                                  </div>
+                                  <% }) %>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="wpcm-contact">
+                    <div class="toll-free">
+                      <a href="tel:+18007890001"
+                        ><i class="fa fa-phone"></i> Call Us
+                      </a>
+                    </div>
+                    <div class="ask-question">
+                      <a href="/contact-us?subject=<%=item.title%>">
+                        <i class="fa fa-envelope"></i> Email Us
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-shop col-lg-6 col-sm-6 col-xs-12">
+                  <div class="wpcm-summary">
+                    <div class="brand"><%=item.title.split(" ")[1]%></div>
+                    <div class="product-name">
+                      <h1>
+                        <a href="/vehicle/<%=item.id%>"><%=item.title%></a>
+                      </h1>
+                    </div>
+
+                    <div class="ratings">
+                      <a href="tel:+18007890001" class="link-phone"
+                        ><i class="fa fa-phone"></i> +18007890001</a
+                      >
+
+                      <a
+                        href="/contact-us?subject=<%=item.title%>"
+                        class="link-phone"
+                      >
+                        <i class="fa fa-envelope"></i> info@usedcars-usa.com
+                      </a>
+                    </div>
+                    <div class="price-block">
+                      <div class="price-box">
+                        <div
+                          class="wpcm-price-wrapper"
+                          itemprop="offers"
+                          itemscope=""
+                          itemtype="http://schema.org/Offer"
+                        >
+                          <p class="special-price">
+                            <span class="wpcm-price price"
+                              ><%=item.price%></span
+                            >
+                          </p>
+
+                          <meta itemprop="price" content="95000" />
+                          <meta itemprop="priceCurrency" content="USD" />
+                        </div>
+                      </div>
+                    </div>
+                    <div class="spec-row" id="summarySpecs">
+                      <h2>Specifications</h2>
+                      <table width="100%">
+                        <tbody>
+                          <tr>
+                            <th>Condition</th>
+                            <td>
+                              <span itemprop="" class="wpcm-vehicle-data"
+                                ><%=item.info.condition%></span
+                              >
+                            </td>
+                          </tr>
+                          <tr>
+                            <th>Mileage</th>
+                            <td>
+                              <span itemprop="" class="wpcm-vehicle-data"
+                                ><%=item.info.mileage%> miles</span
+                              >
+                            </td>
+                          </tr>
+                          <tr>
+                            <th>Year</th>
+                            <td>
+                              <span itemprop="" class="wpcm-vehicle-data"
+                                ><%= item.info.year %>
+                              </span>
+                            </td>
+                          </tr>
+                          <tr>
+                            <th>Engine</th>
+                            <td>
+                              <span itemprop="" class="wpcm-vehicle-data"
+                                ><%=item.info.engine.split(",")[0]%></span
+                              >
+                            </td>
+                          </tr>
+                          <tr>
+                            <th>Fuel</th>
+                            <td>
+                              <span itemprop="" class="wpcm-vehicle-data"
+                                ><%=item.info.fuel%></span
+                              >
+                            </td>
+                          </tr>
+                          <tr>
+                            <th>Transmission</th>
+                            <td>
+                              <span itemprop="" class="wpcm-vehicle-data"
+                                ><%=item.info.transmission%></span
+                              >
+                            </td>
+                          </tr>
+                          <tr>
+                            <th>Drive train</th>
+                            <td>
+                              <span itemprop="color" class="wpcm-vehicle-data"
+                                ><%=item.info['drive train']%></span
+                              >
+                            </td>
+                          </tr>
+                          <tr>
+                            <th>Color</th>
+                            <td>
+                              <span itemprop="" class="wpcm-vehicle-data"
+                                ><%=item.info['exterior color']%></span
+                              >
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+                    <div class="social social-container">
+                      <ul class="link">
+                        <li class="fb">
+                          <a
+                            href="https://www.facebook.com/sharer/sharer.php?u=<%=decodeURIComponent('https://userdcars-usa.com/vehicle/'+item.id)%>"
+                            class="facebook"
+                            aria-label="Share this page with Facebook"
+                            role="button"
+                            target="_blank"
+                          ></a>
+                        </li>
+                        <li class="tw">
+                          <a
+                            href="https://twitter.com/intent/tweet?text=<%=decodeURIComponent(item.title)%>&amp;url=<%=decodeURIComponent('https://userdcars-usa.com/vehicle/'+item.id)%>&amp;via="
+                            class="twitter"
+                            aria-label="Share this page with Twitter"
+                            target="_blank"
+                          ></a>
+                        </li>
+                        <li class="googleplus">
+                          <a
+                            href="https://plus.google.com/share?url=<%=decodeURIComponent('https://userdcars-usa.com/vehicle/'+item.id)%>"
+                            class="googleplus"
+                            aria-label="Share this page with Google Plus"
+                            target="_blank"
+                          ></a>
+                        </li>
+                        <li class="pintrest">
+                          <a
+                            href="http://pinterest.com/pin/create/button/?url=<%=decodeURIComponent('https://userdcars-usa.com/vehicle/'+item.id)%>&amp;media=https%3A%2F%2Fklbtheme.com%2Fharrier%2Fwp-content%2Fuploads%2F2019%2F05%2Flogo.png&amp;description=<%=decodeURIComponent(item.title)%>"
+                            class="pinterest"
+                            aria-label="Share this page with Pinterest"
+                            target="_blank"
+                          ></a>
+                        </li>
+                        <li class="linkedin">
+                          <a
+                            href="http://www.linkedin.com/shareArticle?mini=true&amp;ro=true&amp;title=<%=decodeURIComponent(item.title)%>&amp;url=<%=decodeURIComponent('https://userdcars-usa.com/vehicle/'+item.id)%>&amp;summary=<%=decodeURIComponent(item.title)%>&amp;source=<%=decodeURIComponent(item.title)%>&amp;armin=armin"
+                            class="linkedin"
+                            aria-label="Share this page with Linkedin"
+                            target="_blank"
+                          ></a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="product-collateral container">
+            <ul id="product-detail-tab" class="nav nav-tabs product-tabs">
+              <li class="active">
+                <a href="#description" data-toggle="tab">Description</a>
+              </li>
+              <li>
+                <a href="#details" data-toggle="tab">Details </a>
+              </li>
+              <li>
+                <a href="#features" data-toggle="tab">Standard Features</a>
+              </li>
+              <li>
+                <a href="#premium_features" data-toggle="tab"
+                  >Premium features</a
+                >
+              </li>
+            </ul>
+            <div id="productTabContent" class="tab-content">
+              <div class="tab-pane fade in active" id="description">
+                <%- item.specifications %>
+              </div>
+              <div class="tab-pane fade" id="details">
+                <div class="spec-row" id="summarySpecs">
+                  <table>
+                    <tbody>
+                      <tr>
+                        <th>Condition</th>
+                        <td>
+                          <span itemprop="" class="wpcm-vehicle-data"
+                            ><%=item.info.condition%></span
+                          >
+                        </td>
+                      </tr>
+                      <tr>
+                        <th>Make</th>
+                        <td>
+                          <span itemprop="" class="wpcm-vehicle-data">
+                            <%=item.info.make%>
+                          </span>
+                        </td>
+                      </tr>
+                      <tr>
+                        <th>Model</th>
+                        <td>
+                          <span itemprop="" class="wpcm-vehicle-data"
+                            ><%=item.info.model%></span
+                          >
+                        </td>
+                      </tr>
+                      <tr>
+                        <th>Trim</th>
+                        <td>
+                          <span itemprop="" class="wpcm-vehicle-data"
+                            ><%=item.info.trim%></span
+                          >
+                        </td>
+                      </tr>
+
+                      <tr>
+                        <th>Mileage</th>
+                        <td>
+                          <span itemprop="" class="wpcm-vehicle-data"
+                            ><%=item.info.mileage%> miles</span
+                          >
+                        </td>
+                      </tr>
+                      <tr>
+                        <th>Year</th>
+                        <td>
+                          <span itemprop="" class="wpcm-vehicle-data"
+                            ><%= item.info.year %>
+                          </span>
+                        </td>
+                      </tr>
+                      <tr>
+                        <th>Engine</th>
+                        <td>
+                          <span itemprop="" class="wpcm-vehicle-data"
+                            ><%=item.info.engine.split(",")[0]%></span
+                          >
+                        </td>
+                      </tr>
+                      <tr>
+                        <th>Fuel</th>
+                        <td>
+                          <span itemprop="" class="wpcm-vehicle-data"
+                            ><%=item.info.fuel%></span
+                          >
+                        </td>
+                      </tr>
+                      <tr>
+                        <th>Transmission</th>
+                        <td>
+                          <span itemprop="" class="wpcm-vehicle-data"
+                            ><%=item.info.transmission%></span
+                          >
+                        </td>
+                      </tr>
+                      <tr>
+                        <th>Drive train</th>
+                        <td>
+                          <span itemprop="color" class="wpcm-vehicle-data"
+                            ><%=item.info['drive train']%></span
+                          >
+                        </td>
+                      </tr>
+                      <tr>
+                        <th>Exterior color</th>
+                        <td>
+                          <span itemprop="" class="wpcm-vehicle-data"
+                            ><%=item.info['exterior color']%></span
+                          >
+                        </td>
+                      </tr>
+                      <tr>
+                        <th>Interior color</th>
+                        <td>
+                          <span itemprop="" class="wpcm-vehicle-data"
+                            ><%=item.info['interior color']%></span
+                          >
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+              <div class="tab-pane fade" id="features">
+                <div class="spec-row" id="summarySpecs">
+                  <table width="100%">
+                    <tbody>
+                      <tr>
+                        <th class="label-spec">ABS</th>
+                        <td class="value-spec">
+                          <i class="fa fa-check-circle"></i>
+                        </td>
+                      </tr>
+                      <tr>
+                        <th class="label-spec">Air Conditioner</th>
+                        <td class="value-spec">
+                          <i class="fa fa-check-circle"></i>
+                        </td>
+                      </tr>
+                      <tr>
+                        <th class="label-spec">AntiLock Braking System</th>
+                        <td class="value-spec">
+                          <i class="fa fa-check-circle"></i>
+                        </td>
+                      </tr>
+                      <tr>
+                        <th class="label-spec">Auxiliary heating</th>
+                        <td class="value-spec">
+                          <i class="fa fa-check-circle"></i>
+                        </td>
+                      </tr>
+                      <tr>
+                        <th class="label-spec">Bluetooth</th>
+                        <td class="value-spec">
+                          <i class="fa fa-check-circle"></i>
+                        </td>
+                      </tr>
+                      <tr>
+                        <th class="label-spec">CD player</th>
+                        <td class="value-spec">
+                          <i class="fa fa-check-circle"></i>
+                        </td>
+                      </tr>
+                      <tr>
+                        <th class="label-spec">Central locking</th>
+                        <td class="value-spec">
+                          <i class="fa fa-check-circle"></i>
+                        </td>
+                      </tr>
+                      <tr>
+                        <th class="label-spec">Leather Seats</th>
+                        <td class="value-spec">
+                          <i class="fa fa-check-circle"></i>
+                        </td>
+                      </tr>
+                      <tr>
+                        <th class="label-spec">Power Steering</th>
+                        <td class="value-spec">
+                          <i class="fa fa-check-circle"></i>
+                        </td>
+                      </tr>
+                      <tr>
+                        <th class="label-spec">Power Windows</th>
+                        <td class="value-spec">
+                          <i class="fa fa-check-circle"></i>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+              <div class="tab-pane fade" id="premium_features">
+                <%- item.premium_features%>
+              </div>
+            </div>
+          </div>
+
+          <!-- BEGIN RELATED PRODUCTS -->
+
+          <div class="box-additional">
+            <div class="related-pro container">
+              <div class="slider-items-products">
+                <div class="new_title center">
+                  <h2>Related Vehicles</h2>
+                </div>
+                <div
+                  id="related-slider"
+                  class="product-flexslider hidden-buttons"
+                >
+                  <div
+                    class="slider-items slider-width-col4 products-grid owl-carousel owl-theme"
+                    style="opacity: 1; display: block"
+                  >
+                    <div class="owl-wrapper-outer">
+                      <div class="owl-wrapper">
+                        <% featured.forEach(item =>{ %>
+                        <div
+                          class="owl-item"
+                          style="width: 258px; min-width: 258px"
+                        >
+                          <div class="item">
+                            <%- include('./partials/card', {item}) %>
+                          </div>
+                        </div>
+                        <% }) %>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="loader-image"></div>
+          <div class="ajaxphp-results"></div>
+
+          <meta
+            itemprop="url"
+            content="https://usedcars-usa/vehicle/<%= item.id %>"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

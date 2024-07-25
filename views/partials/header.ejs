@@ -1,0 +1,91 @@
+<header>
+  <div class="container">
+    <div class="row">
+      <div id="header">
+        <div class="header-container">
+          <div class="header-logo">
+            <a href="/" class="logo" title="Used Cars USA">
+              <div>
+                <img
+                  src="/logo.png"
+                  height="28"
+                  width="162"
+                  alt="Used Cars USA"
+                />
+              </div>
+            </a>
+          </div>
+          <div class="header__nav">
+            <div class="header-banner">
+              <div class="col-lg-6 col-xs-12 col-sm-6 col-md-6">
+                <div class="assetBlock">
+                  <div class="klb-slideshow" id="slideshow">
+                    <p>
+                      Hot days! -
+                      <span>50%</span>
+                      Get ready for summer!
+                    </p>
+                    <p>
+                      Save up to
+                      <span>40%</span>
+                      Hurry limited offer!
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="col-lg-6 col-lg-6 col-xs-12 col-sm-6 col-md-6 call-us"
+              >
+                <i class="fa fa-clock-o"></i>
+                Mon - Fri : 09am to 06pm
+                <i class="fa fa-phone"></i>
+                +1 800 789 0000
+              </div>
+            </div>
+            <div class="fl-header-right">
+              <div class="fl-cart-contain">
+                <div class="mini-cart">
+                  <div class="basket">
+                    <a href="#">
+                      <span class="cart-value cart-contents">0</span>
+                    </a>
+                  </div>
+                  <div class="fl-mini-cart-content">
+                    <p class="woocommerce-mini-cart__empty-message">
+                      No products in the cart.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="fl-header-right">
+              <div class="fl-nav-menu">
+                <nav>
+                  <div class="mm-toggle-wrap">
+                    <div class="mm-toggle">
+                      <i class="fa fa-bars"></i>
+                      <span class="mm-label">Menu</span>
+                    </div>
+                  </div>
+                  <div class="nav-inner">
+                    <ul id="nav" class="hidden-xs">
+                      <% routes.forEach(route => { %>
+                      <li
+                        class="level-top menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home"
+                      >
+                        <a class="nav-link" href="<%= route.path %>">
+                          <span> <%= route.name %> </span>
+                        </a>
+                      </li>
+                      <% }) %>
+                    </ul>
+                  </div>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>

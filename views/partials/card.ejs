@@ -1,0 +1,86 @@
+<div class="item-inner">
+  <div class="item-img">
+    <div class="item-img-info">
+      <a
+        href="/vehicle/<%= item.id %>"
+        title="<%= item.title %>"
+        class="product-image"
+      >
+        <img
+          src="<%= item.gallery[0] %>"
+          alt="<%= item.title %>"
+          style="
+            aspect-ratio: 16/9;
+            width: 100%;
+            object-position: center;
+            object-fit: cover;
+          "
+        />
+      </a>
+      <div class="new-label new-top-left New">
+        <%= item.info.condition||'Used' %>
+      </div>
+      <div class="item-box-hover">
+        <div class="box-inner">
+          <div class="product-detail-bnt">
+            <a
+              href="/vehicle/<%= item.id %>"
+              class="button detail-bnt link-detail"
+            >
+              <span>View More</span>
+            </a>
+          </div>
+          <div class="product-detail-bnt">
+            <a class="button detail-bnt ajax" id="540">
+              <span>Quick View</span>
+            </a>
+          </div>
+          <div class="actions">
+            <span class="add-to-links">
+              <a
+                href="tel:+18007890001"
+                class="link-phone link-wishlist"
+                title="Add to Wishlist"
+              >
+                <span>Add to Wishlist</span>
+              </a>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="item-info">
+    <div class="info-inner">
+      <div class="item-title">
+        <a href="/vehicle/<%= item.id %>" title="<%= item.title %>"
+          ><%= item.title %></a
+        >
+      </div>
+      <div class="item-content">
+        <div class="klb-seperator"></div>
+        <div class="item-price">
+          <div class="price-box">
+            <span class="regular-price">
+              <span class="price"> <%= item.price %> </span>
+            </span>
+          </div>
+        </div>
+        <div class="other-info">
+          <div class="col-km">
+            <i class="fa fa-tachometer"></i>
+            <%= item.info.mileage %>
+          </div>
+          <div class="col-engine">
+            <i class="fa fa-gear"></i>
+            <%= item.info.transmission %>
+          </div>
+          <div class="col-date">
+            <i class="fa fa-calendar" aria-hidden="true"></i>
+            <%= item.info.year %>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

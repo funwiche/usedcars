@@ -1,0 +1,107 @@
+<div class="empty-klb"></div>
+<section class="wpb-content-wrapper">
+  <div
+    data-vc-full-width="true"
+    data-vc-full-width-init="true"
+    data-vc-stretch-content="true"
+    class="vc_row wpb_row vc_row-fluid vc_row-no-padding"
+    style="
+      position: relative;
+      left: 15px;
+      box-sizing: border-box;
+      width: 601px;
+      max-width: 601px;
+    "
+  >
+    <div class="wpb_column vc_column_container vc_col-sm-12">
+      <div class="vc_column-inner">
+        <div class="wpb_wrapper">
+          <div class="page-heading">
+            <div class="breadcrumbs">
+              <div class="container">
+                <div class="row">
+                  <div class="col-xs-12">
+                    <ul>
+                      <li>
+                        <a
+                          href="https://klbtheme.com/harrier"
+                          title="Home"
+                          rel="bookmark"
+                          >Home</a
+                        >
+                        <span>› </span>
+                      </li>
+                      <li><a class="text-white">Vehicle Grid</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="page-title"><h2>Available Cars</h2></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="vc_row-full-width vc_clearfix"></div>
+  <div class="container">
+    <div class="vc_row wpb_row vc_row-fluid vc_custom_1558437112558">
+      <div class="wpb_column vc_column_container vc_col-sm-12">
+        <div class="vc_column-inner">
+          <div class="wpb_wrapper">
+            <div class="product-grid klb-vehicle">
+              <div class="pro-coloumn">
+                <article class="col-main">
+                  <div class="category-products">
+                    <ul class="products-grid">
+                      <% items.forEach(item =>{ %>
+                      <li class="item col-md-3 col-sm-4 col-xs-6">
+                        <%- include('./partials/card', {item}) %>
+                      </li>
+                      <% }) %>
+                    </ul>
+                  </div>
+                  <div class="toolbar bottom">
+                    <div class="pager">
+                      <div class="pages">
+                        <ul class="page-numbers">
+                          <% [...Array(7).keys()].forEach(i => { %>
+                          <li>
+                            <% if(page==i+1){ %>
+                            <span
+                              aria-current="page"
+                              class="page-numbers current"
+                              ><%= i+1 %></span
+                            >
+                            <% }else{ %>
+                            <a
+                              class="page-numbers"
+                              href="/vehicles?page=<%= i+1 %>"
+                              ><%= i+1 %></a
+                            >
+                            <% } %>
+                          </li>
+                          <% }) %> <% if(page<7){ %>
+                          <li>
+                            <a
+                              class="next page-numbers"
+                              href="/vehicles?page=<%= parseInt(page)+1 %>"
+                              >Next
+                            </a>
+                          </li>
+                          <% }%>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </article>
+              </div>
+            </div>
+            <div class="loader-image" style="display: none"></div>
+            <div class="ajaxphp-results"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
