@@ -31,7 +31,7 @@ app.use(express.static(path.join(__dirname, "public")));
 app.use("/submit-form", require("./routes/submit-form"));
 app.get("/", (req, res) => {
   const int = Math.floor(Math.random() * 100);
-  const featured = products.slice(int, int + 5);
+  const featured = products.slice(int, int + 6);
   res.render("index", { title: "Home", featured });
 });
 app.get("/about-us", (req, res) => {

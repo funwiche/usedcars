@@ -900,3 +900,16 @@ span[itemprop="dateVehicleFirstRegistered"] {
 .text-field:focus {
   outline: solid 4px #0693e350 !important;
 }
+
+.md-show {
+  display: none !important;
+  margin-top: 20px !important;
+}
+@media (max-width: 768px) {
+  .md-hidden {
+    display: none !important;
+  }
+  .md-show {
+    display: block !important;
+  }
+}
