@@ -16,6 +16,8 @@ const routes = [
 app.use(express.json());
 app.use((req, res, next) => {
   res.locals.routes = routes;
+  res.locals.phone = "+1 800 789 0000";
+  res.locals.email = "info@usedcars-usa.com";
   next();
 });
 // Set the view engine to EJS

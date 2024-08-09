@@ -70,7 +70,7 @@
             <h4>Email Address</h4>
             <div class="textwidget">
               <address>
-                <div>info@usedcars-usa.com</div>
+                <div><%= email %></div>
               </address>
             </div>
           </div>
@@ -80,7 +80,7 @@
             <h4>Phone Number</h4>
             <div class="textwidget">
               <address>
-                <div>+1 800 789 0000</div>
+                <div><%= phone %></div>
               </address>
             </div>
           </div>
@@ -136,3 +136,9 @@
     </div>
   </div>
 </footer>
+<a
+  style="position: fixed; bottom: 20px; left: 20px"
+  href="http://wa.me/<%= phone.replaceAll(' ','') %>"
+>
+  <img src="/whatsapp-icon.png" width="48" />
+</a>
