@@ -1,0 +1,186 @@
+[
+  {
+    "link": "https://klbtheme.com/harrier/wp-includes/js/wp-emoji-release.min.js?ver=6.1.7",
+    "path": "/wp-includes/js/wp-emoji-release.min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-includes/js/jquery/jquery.min.js?ver=3.6.1",
+    "path": "/wp-includes/js/jquery/jquery.min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2",
+    "path": "/wp-includes/js/jquery/jquery-migrate.min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.20",
+    "path": "/wp-content/plugins/revslider/public/assets/js/rbtools.min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.20",
+    "path": "/wp-content/plugins/revslider/public/assets/js/rs6.min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.2.2",
+    "path": "/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.2.2",
+    "path": "/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.10.0",
+    "path": "/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.2",
+    "path": "/wp-content/plugins/contact-form-7/includes/swv/js/index.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.2",
+    "path": "/wp-content/plugins/contact-form-7/includes/js/index.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/themes/harrier/js/custom/quick_ajax_vehicle.js?ver=1.0.0",
+    "path": "/wp-content/themes/harrier/js/custom/quick_ajax_vehicle.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/themes/harrier/js/cloud-zoom.js?ver=1.0.0",
+    "path": "/wp-content/themes/harrier/js/cloud-zoom.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.2.2",
+    "path": "/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.2.2",
+    "path": "/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.2.2",
+    "path": "/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/plugins/yith-woocommerce-compare/assets/js/woocompare.min.js?ver=2.22.0",
+    "path": "/wp-content/plugins/yith-woocommerce-compare/assets/js/woocompare.min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/plugins/yith-woocommerce-compare/assets/js/jquery.colorbox-min.js?ver=1.4.21",
+    "path": "/wp-content/plugins/yith-woocommerce-compare/assets/js/jquery.colorbox-min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/plugins/ti-woocommerce-wishlist/assets/js/public.min.js?ver=2.2.1",
+    "path": "/wp-content/plugins/ti-woocommerce-wishlist/assets/js/public.min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-includes/js/comment-reply.min.js?ver=6.1.7",
+    "path": "/wp-includes/js/comment-reply.min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/themes/harrier/js/bootstrap.min.js?ver=1.0",
+    "path": "/wp-content/themes/harrier/js/bootstrap.min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/themes/harrier/js/bootstrap-slider.min.js?ver=1.0",
+    "path": "/wp-content/themes/harrier/js/bootstrap-slider.min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/themes/harrier/js/bootstrap-select.min.js?ver=1.0",
+    "path": "/wp-content/themes/harrier/js/bootstrap-select.min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/themes/harrier/js/parallax.js?ver=1.0",
+    "path": "/wp-content/themes/harrier/js/parallax.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/themes/harrier/js/jquery.bxslider.min.js?ver=1.0",
+    "path": "/wp-content/themes/harrier/js/jquery.bxslider.min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/themes/harrier/js/owl.carousel.min.js?ver=1.0",
+    "path": "/wp-content/themes/harrier/js/owl.carousel.min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/themes/harrier/js/jquery.mobile-menu.min.js?ver=1.0",
+    "path": "/wp-content/themes/harrier/js/jquery.mobile-menu.min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/themes/harrier/js/countdown.js?ver=1.0",
+    "path": "/wp-content/themes/harrier/js/countdown.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/themes/harrier/js/jquery.countdown.min.js?ver=1.0",
+    "path": "/wp-content/themes/harrier/js/jquery.countdown.min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/themes/harrier/js/common.js?ver=1.0",
+    "path": "/wp-content/themes/harrier/js/common.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/themes/harrier/js/custom/quick_ajax_shop.js?ver=1.0.0",
+    "path": "/wp-content/themes/harrier/js/custom/quick_ajax_shop.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/themes/harrier/js/cloud-zoom.js?ver=1.0.0",
+    "path": "/wp-content/themes/harrier/js/cloud-zoom.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.10.0",
+    "path": "/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/plugins/wp-car-manager/assets/js/lib/select2.min.js?ver=1.4.3",
+    "path": "/wp-content/plugins/wp-car-manager/assets/js/lib/select2.min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/plugins/wp-car-manager/assets/js/listings.min.js?ver=1.4.3",
+    "path": "/wp-content/plugins/wp-car-manager/assets/js/listings.min.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/themes/harrier/js/custom/countdown.js?ver=1.0",
+    "path": "/wp-content/themes/harrier/js/custom/countdown.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.8.12",
+    "path": "/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/themes/harrier/stylesheet/bootstrap-select.css?ver=1.0",
+    "path": "/wp-content/themes/harrier/stylesheet/bootstrap-select.css"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/themes/harrier/stylesheet/owl.carousel.css?ver=1.0",
+    "path": "/wp-content/themes/harrier/stylesheet/owl.carousel.css"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/themes/harrier/stylesheet/owl.theme.css?ver=1.0",
+    "path": "/wp-content/themes/harrier/stylesheet/owl.theme.css"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/themes/harrier/stylesheet/jquery.bxslider.css?ver=1.0",
+    "path": "/wp-content/themes/harrier/stylesheet/jquery.bxslider.css"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/themes/harrier/stylesheet/jquery.mobile-menu.css?ver=1.0",
+    "path": "/wp-content/themes/harrier/stylesheet/jquery.mobile-menu.css"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/themes/harrier/stylesheet/custom.css?ver=1.0",
+    "path": "/wp-content/themes/harrier/stylesheet/custom.css"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/themes/harrier/stylesheet/responsive.css?ver=1.0",
+    "path": "/wp-content/themes/harrier/stylesheet/responsive.css"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/themes/harrier/style.css?ver=6.1.7",
+    "path": "/wp-content/themes/harrier/style.css"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.10.0",
+    "path": "/wp-content/plugins/js_composer/assets/css/js_composer.min.css"
+  },
+  {
+    "link": "https://klbtheme.com/harrier/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.6.20",
+    "path": "/wp-content/plugins/revslider/public/assets/css/rs6.css"
+  }
+]
